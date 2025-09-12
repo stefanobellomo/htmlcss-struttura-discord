@@ -36,7 +36,7 @@ main{
     height: 100%;
 }
 
-img{
+.logo{
     height: 3rem;
 }
 
@@ -46,10 +46,47 @@ img{
     padding: 3rem;
 }
 
-p{
+.main-header{
     padding: 2rem;
     text-align: center;
-    max-width: 70%;
+    
+    max-width: 100%;
+}
+
+.img-box{
+   width: 35%;
+}
+.img-box img{
+    width: 100%;
+}
+
+.flex-items-second{
+    align-items: center;
+    
+}
+
+.inline{
+    display: inline-block;
+    width: 40%;
+}
+
+.a-primary{
+    width: 40%;
+}
+
+.verticle{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.left-late {
+    display: flex;
+    flex-direction: column;
+}
+
+section{
+    background-color: red;
 }
 
 
