@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+   margin: auto;
+   width: 80%;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   
+}
+
+.debug *{
+    border: 1px solid black;
+}
+
+.debug header{
+    background-color: aquamarine;
+    height: 4rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.debug main{
+    height: 200px;
+    display: flex;
+}
+
+main{
+    background-image: url(../img/firelink-shrine.
+    webp);
+    height: 100%;
+}
+
+img{
+    height: 3rem;
+    
+}
+
+.flex-items{
+    flex-direction: column;
+    margin: 2rem 20%;
+}
+
+
+
+
+
+
