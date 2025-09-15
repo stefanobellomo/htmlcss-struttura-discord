@@ -8,7 +8,6 @@ body{
     min-width: 1080px;
 }
 
-
 .container {
    margin: auto;
    width: 80%;
@@ -20,7 +19,6 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* margin: auto; */
     background-color: rgb(170, 9, 250);
 }
 
@@ -67,7 +65,6 @@ header{
     height: 4rem;
     display: flex;
     justify-content: space-between;
-    
 }
 
 button{
@@ -125,22 +122,9 @@ button{
        width: 100%;
 }
 
-.a-primary{
-    margin-right: 20px;
-}
-
-.left-late {
-    display: flex;
-    flex-direction: column;
-}
-
 section{
     background-color: rgb(80, 38, 38);
     padding: 20px 0;
-}
-
-.divide{
-    margin: 0 20px 0 0;
 }
 
 .down-sect {
